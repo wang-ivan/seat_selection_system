@@ -6,7 +6,7 @@
 
 // 先載入資料庫
 firebase.initializeApp({
-    projectId: 'test-3f385',
+    projectId: '***',
 });
 
 var db = firebase.firestore();
